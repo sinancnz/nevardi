@@ -20,3 +20,4 @@ flutter:
   uses-material-design: true
 
   uuid: ^4.4.0
+# Trigger build
